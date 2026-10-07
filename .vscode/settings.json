@@ -1,0 +1,10 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
