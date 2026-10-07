@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-0%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-2%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -11,12 +11,12 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (0 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (2 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
 | **00** | Chào thế giới | `1 bài` | ✅ Done |
-| **01** | Cấu trúc điều khiển | `0 bài` | 🔄 Đang học |
+| **01** | Cấu trúc điều khiển | `2 bài` | 🔄 Đang học |
 | **02** | Hàm | `0 bài` | ⏳ Chưa làm |
 | **03** | Danh sách (List) | `0 bài` | ⏳ Chưa làm |
 | **04** | Tuple | `0 bài` | ⏳ Chưa làm |
@@ -59,7 +59,9 @@
 ### 📘 Chương 01: Cấu Trúc Điều Khiển
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
 | :---: | :--- | :---: | :---: | :---: |
-| --- | *Chưa có bài tập* | --- | --- | --- |
+| 001 | Viết chương trình để kiểm tra số nguyên dương hay âm | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/001.py) | `Done` |
+| 002 |  Viết chương trình để kiểm tra số chẵn hay lẻ | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/002.py) | `Done` |
+
 
 ### 📘 Chương 02: Hàm
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
@@ -208,13 +210,15 @@
 
 ---
 
-## 🗂️ Cấu Trúc Thư Mục Repository Gợi Ý
+## 🗂️ Cấu Trúc Thư Mục Repository
 
 ```text
 300-bai-code-thieu-nhi-python/
 ├── 00-Chao-The-Gioi/
 │   └── 000_hello_world.py
 ├── 01-Cau-Truc-Dieu-Khien/
+│   ├── 001.py
+│   ├── 002.py
 ├── 02-Ham/
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
