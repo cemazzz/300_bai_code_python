@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-3%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-4%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -11,12 +11,12 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (3 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (4 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
 | **00** | Chào thế giới | `1 bài` | ✅ Done |
-| **01** | Cấu trúc điều khiển | `3 bài` | 🔄 Đang học |
+| **01** | Cấu trúc điều khiển | `4 bài` | 🔄 Đang học |
 | **02** | Hàm | `0 bài` | ⏳ Chưa làm |
 | **03** | Danh sách (List) | `0 bài` | ⏳ Chưa làm |
 | **04** | Tuple | `0 bài` | ⏳ Chưa làm |
@@ -62,6 +62,7 @@
 | 001 | Viết chương trình để kiểm tra số nguyên dương hay âm | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/001.py) | `Done` |
 | 002 |  Viết chương trình để kiểm tra số chẵn hay lẻ | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/002.py) | `Done` |
 | 003 |  Viết chương trình để tìm số lớn nhất trong ba số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/003.py) | `Done` |
+| 004 |  Chương trình tính tiền taxi dựa trên số km đã đi | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/004.py) | `Done` |
 
 
 ### 📘 Chương 02: Hàm
@@ -221,6 +222,7 @@
 │   ├── 001.py
 │   ├── 002.py
 │   ├── 003.py
+│   ├── 004.py
 ├── 02-Ham/
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
