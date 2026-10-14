@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-6%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-7%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -11,12 +11,12 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (6 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (7 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
 | **00** | Chào thế giới | `1 bài` | ✅ Done |
-| **01** | Cấu trúc điều khiển | `6 bài` | 🔄 Đang học |
+| **01** | Cấu trúc điều khiển | `7 bài` | 🔄 Đang học |
 | **02** | Hàm | `0 bài` | ⏳ Chưa làm |
 | **03** | Danh sách (List) | `0 bài` | ⏳ Chưa làm |
 | **04** | Tuple | `0 bài` | ⏳ Chưa làm |
@@ -65,6 +65,7 @@
 | 004 |  Chương trình tính tiền taxi dựa trên số km đã đi | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/004.py) | `Done` |
 | 005 |  Bài tập yêu cầu bạn viết một chương trình để tính điểm trung bình của học sinh dựa trên các điểm số của các môn học và xếp loại học sinh dựa trên điểm trung bình | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/005.py) | `Done` |
 | 006 | Bài tập yêu cầu bạn viết một chương trình để in bảng cửu chương từ 1 đến 10. Bảng cửu chương là bảng nhân, nơi mỗi số từ 1 đến 10 được nhân với các số từ 1 đến 10 | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/006.py) | `Done` |
+| 007 | Viết chương trình để kiểm tra một năm có phải năm nhuận không | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/007.py) | `Done` |
 
 
 ### 📘 Chương 02: Hàm
@@ -227,6 +228,7 @@
 │   ├── 004.py
 │   ├── 005.py
 │   ├── 006.py
+│   ├── 007.py
 ├── 02-Ham/
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
