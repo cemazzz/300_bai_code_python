@@ -60,12 +60,13 @@
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
 | :---: | :--- | :---: | :---: | :---: |
 | 001 | Viết chương trình để kiểm tra số nguyên dương hay âm | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/001.py) | `Done` |
-| 002 |  Viết chương trình để kiểm tra số chẵn hay lẻ | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/002.py) | `Done` |
-| 003 |  Viết chương trình để tìm số lớn nhất trong ba số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/003.py) | `Done` |
-| 004 |  Chương trình tính tiền taxi dựa trên số km đã đi | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/004.py) | `Done` |
-| 005 |  Bài tập yêu cầu bạn viết một chương trình để tính điểm trung bình của học sinh dựa trên các điểm số của các môn học và xếp loại học sinh dựa trên điểm trung bình | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/005.py) | `Done` |
-| 006 | Bài tập yêu cầu bạn viết một chương trình để in bảng cửu chương từ 1 đến 10. Bảng cửu chương là bảng nhân, nơi mỗi số từ 1 đến 10 được nhân với các số từ 1 đến 10 | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/006.py) | `Done` |
+| 002 | Viết chương trình để kiểm tra số chẵn hay lẻ | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/002.py) | `Done` |
+| 003 | Viết chương trình để tìm số lớn nhất trong ba số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/003.py) | `Done` |
+| 004 | Chương trình tính tiền taxi dựa trên số km đã đi | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/004.py) | `Done` |
+| 005 | Viết chương trình để tính điểm trung bình và xếp loại học sinh | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/005.py) | `Done` |
+| 006 | Viết chương trình để in bảng cửu chương | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/006.py) | `Done` |
 | 007 | Viết chương trình để kiểm tra một năm có phải năm nhuận không | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/007.py) | `Done` |
+| 008 | Viết chương trình để đếm số lượng số chẵn và lẻ trong một danh sách | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/008.py) | `Done` |
 
 
 ### 📘 Chương 02: Hàm
@@ -229,6 +230,7 @@
 │   ├── 005.py
 │   ├── 006.py
 │   ├── 007.py
+│   ├── 008.py
 ├── 02-Ham/
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
@@ -258,4 +260,6 @@
 ├── 28-Lap-Trinh-Do-Hoa/
 ├── 29-Khoa-Hoc-Du-Lieu/
 ├── 30-Xu-Ly-Anh/
+├── 300 bai code/
+│   └── file-pdf-de-tai
 └── README.md
