@@ -74,7 +74,8 @@
 ### 📘 Chương 02: Hàm
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
 | :---: | :--- | :---: | :---: | :---: |
-| 011 | Viết hàm để tính giai thừa của một số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/011.py) | `Done` |
+| 011 | Viết hàm để tính giai thừa của một số | 🟢 Dễ | [Solution](./02-Ham/011.py) | `Done` |
+| 012 |  Viết hàm để tính tổng các số từ 1 đến n | 🟢 Dễ | [Solution](./02-Ham/012.py) | `Done` |
 
 
 ### 📘 Chương 03: Danh Sách (List)
@@ -238,6 +239,7 @@
 │   └── 010.py
 ├── 02-Ham/
 │   └── 011.py
+│   └── 012.py
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
 ├── 05-Dictionary/
