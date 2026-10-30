@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-9%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-10%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -11,13 +11,13 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (9 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (10 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
 | **00** | Chào thế giới | `1 bài` | ✅ Done |
-| **01** | Cấu trúc điều khiển | `9 bài` | 🔄 Đang học |
-| **02** | Hàm | `0 bài` | ⏳ Chưa làm |
+| **01** | Cấu trúc điều khiển | `10 bài` | ✅ Done |
+| **02** | Hàm | `0 bài` | 🔄 Đang học |
 | **03** | Danh sách (List) | `0 bài` | ⏳ Chưa làm |
 | **04** | Tuple | `0 bài` | ⏳ Chưa làm |
 | **05** | Dictionary | `0 bài` | ⏳ Chưa làm |
@@ -68,6 +68,7 @@
 | 007 | Viết chương trình để kiểm tra một năm có phải năm nhuận không | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/007.py) | `Done` |
 | 008 | Viết chương trình để đếm số lượng số chẵn và lẻ trong một danh sách | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/008.py) | `Done` |
 | 009 | Viết chương trình để in tất cả các số nguyên tố từ 1 đến 100 | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/009.py) | `Done` |
+| 010 | Viết chương trình để tìm ước số chung lớn nhất (USCLN) của hai số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/0010.py) | `Done` |
 
 
 ### 📘 Chương 02: Hàm
@@ -233,6 +234,7 @@
 │   ├── 007.py
 │   ├── 008.py
 │   ├── 009.py
+│   └── 010.py
 ├── 02-Ham/
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
