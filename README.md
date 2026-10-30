@@ -69,13 +69,11 @@
 | 008 | Viết chương trình để đếm số lượng số chẵn và lẻ trong một danh sách | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/008.py) | `Done` |
 | 009 | Viết chương trình để in tất cả các số nguyên tố từ 1 đến 100 | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/009.py) | `Done` |
 | 010 | Viết chương trình để tìm ước số chung lớn nhất (USCLN) của hai số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/010.py) | `Done` |
-| 011 | Viết chương trình để tìm ước số chung lớn nhất (USCLN) của hai số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/011y) | `Done` |
 
 
 ### 📘 Chương 02: Hàm
-| STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
-| :---: | :--- | :---: | :---: | :---: |
-| --- | *Chưa có bài tập* | --- | --- | --- |
+| 011 | Viết hàm để tính giai thừa của một số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/011.py) | `Done` |
+
 
 ### 📘 Chương 03: Danh Sách (List)
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
