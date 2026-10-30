@@ -72,6 +72,8 @@
 
 
 ### 📘 Chương 02: Hàm
+| STT | Tên Đề Bài | Độ Khó | Lời Giải (Python) | Trạng Thái |
+| :---: | :--- | :---: | :---: | :---: |
 | 011 | Viết hàm để tính giai thừa của một số | 🟢 Dễ | [Solution](./01-Cau-Truc-Dieu-Khien/011.py) | `Done` |
 
 
