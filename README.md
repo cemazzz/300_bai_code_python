@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-11%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-13%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (11 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (13 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
@@ -76,6 +76,7 @@
 | :---: | :--- | :---: | :---: | :---: |
 | 011 | Viết hàm để tính giai thừa của một số | 🟢 Dễ | [Solution](./02-Ham/011.py) | `Done` |
 | 012 |  Viết hàm để tính tổng các số từ 1 đến n | 🟢 Dễ | [Solution](./02-Ham/012.py) | `Done` |
+| 013 |   Viết hàm để kiểm tra một số có phải là số nguyên tố không | 🟢 Dễ | [Solution](./02-Ham/013.py) | `Done` |
 
 
 ### 📘 Chương 03: Danh Sách (List)
@@ -240,6 +241,7 @@
 ├── 02-Ham/
 │   └── 011.py
 │   └── 012.py
+│   └── 013.py
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
 ├── 05-Dictionary/
