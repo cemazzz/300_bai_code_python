@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Progress-14%2F300-brightgreen?style=for-the-badge" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-15%2F300-brightgreen?style=for-the-badge" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -17,7 +17,7 @@
 | :---: | :--- | :---: | :---: |
 | **00** | Chào thế giới | `1 bài` | ✅ Done |
 | **01** | Cấu trúc điều khiển | `10 bài` | ✅ Done |
-| **02** | Hàm | `4 bài` | 🔄 Đang học |
+| **02** | Hàm | `5 bài` | 🔄 Đang học |
 | **03** | Danh sách (List) | `0 bài` | ⏳ Chưa làm |
 | **04** | Tuple | `0 bài` | ⏳ Chưa làm |
 | **05** | Dictionary | `0 bài` | ⏳ Chưa làm |
@@ -78,6 +78,7 @@
 | 012 |  Viết hàm để tính tổng các số từ 1 đến n | 🟢 Dễ | [Solution](./02-Ham/012.py) | `Done` |
 | 013 |   Viết hàm để kiểm tra một số có phải là số nguyên tố không | 🟢 Dễ | [Solution](./02-Ham/013.py) | `Done` |
 | 014 |   Viết hàm để tìm số lớn nhất trong một danh sách | 🟢 Dễ | [Solution](./02-Ham/014.py) | `Done` |
+| 015 |   Viết hàm để tính tổng các chữ số của một số | 🟢 Dễ | [Solution](./02-Ham/015.py) | `Done` |
 
 
 ### 📘 Chương 03: Danh Sách (List)
@@ -244,6 +245,7 @@
 │   └── 012.py
 │   └── 013.py
 │   └── 014.py
+│   └── 015.py
 ├── 03-Danh-Sach-List/
 ├── 04-Tuple/
 ├── 05-Dictionary/
